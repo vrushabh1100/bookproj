@@ -1,0 +1,6 @@
+E:\FinalCompleteShopping\CopyFinal\ShoppingBook1\BookShop\BookShop\bin\BookShop.dll.config
+E:\FinalCompleteShopping\CopyFinal\ShoppingBook1\BookShop\BookShop\bin\BookShop.dll
+E:\FinalCompleteShopping\CopyFinal\ShoppingBook1\BookShop\BookShop\bin\BookShop.pdb
+E:\FinalCompleteShopping\CopyFinal\ShoppingBook1\BookShop\BookShop\obj\Debug\BookShop.dll
+E:\FinalCompleteShopping\CopyFinal\ShoppingBook1\BookShop\BookShop\obj\Debug\BookShop.pdb
+E:\FinalCompleteShopping\CopyFinal\ShoppingBook1\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
